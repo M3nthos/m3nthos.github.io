@@ -4,7 +4,10 @@ Hier folgen 30-40 Wörter Klartext, als Erläuterung, um wen es hier geht (um mi
 
 #### Subheader
 
-- 1 Text  
-- 2 Text  
-- 3 Text  
-- 4 Text  
+* 1 Text  
+
+* 2 Text  
+
+* 3 Text  
+
+* 4 Text  
