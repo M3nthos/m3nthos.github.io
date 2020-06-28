@@ -4,5 +4,4 @@ Hier folgen 30-40 Wörter Klartext, als Erläuterung, um wen es hier geht (um mi
 * Text 
 * Text 
 * Text 
-* Text
-> Qoute
+* Text 
