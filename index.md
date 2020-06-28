@@ -7,4 +7,5 @@ Hier folgen 30-40 Wörter Klartext, als Erläuterung, um wen es hier geht (um mi
 * Text
 Qoute from Jendrik:  
 > Qoute  
-> Block Qoute1
+> Block Qoute1  
+<img src="https://pbs.twimg.com/profile_images/916254721274515458/72vChEJI.jpg"/>
